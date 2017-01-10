@@ -15,6 +15,11 @@ body {
 	line-height: 48.4px;
 }
 
+.icono {
+	height: 50px;
+	width: 50px;
+}
+
 .footer {
 	padding:5px;
 	font-style: italic;
@@ -45,4 +50,15 @@ body {
 	font-size: large;
 	border-radius: 10px;
 	background-color: #FD4140;
+}
+
+.button-filter {
+	font-size: medium;
+	width: 6rem;
+	background-color: #7ABAF2;
+}
+
+#button-gallery {
+	font-size: large;
+	background-color: #92BA3F;
 }
